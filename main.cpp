@@ -5,7 +5,7 @@
 #include <Windows.h>
 #pragma comment(lib, "urlmon.lib")
 
-#define PAKDOWNLOADLINK "https://cdn.discordapp.com/attachments/1235639388403138660/1244631157015056404/zz_HN2MP_Beta_p.pak?ex=6655d097&is=66547f17&hm=c888ad59c1ad320b40301cbb0b494c32117eef60f69ad7a5720fe2e522e9edde&"
+#define PAKDOWNLOADLINK "http://kkskorv2.dx.am/HN2MP/Download.php"
 #define PATCH_OFFSET 0xAD5F63
 #define PATCH 0x85
 
