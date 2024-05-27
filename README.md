@@ -3,7 +3,7 @@
 ### Compile with Visual Studio 2022.
 
 # Usage
-In your terminal:
+In the command line:
 ```
 HN2MP_Installer.exe "C:\Program Files (x86)\Steam\steamapps\common\Hello Neighbor 2 Beta"
 ```
